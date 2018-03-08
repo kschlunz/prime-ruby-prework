@@ -1,4 +1,4 @@
-def prime?(n)
+def prime?(num)
 
   count = 0
   (1..num).each do |n|
