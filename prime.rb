@@ -1,5 +1,5 @@
 def prime?(n)
-  
+
   count = 0
   (1..num).each do |n|
     if num % n == 0
@@ -8,4 +8,3 @@ def prime?(n)
   end
     count == 2
 end
-
